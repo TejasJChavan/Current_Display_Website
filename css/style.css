@@ -35,3 +35,10 @@
   height: 100px;
   border-radius: 50%;
 }
+
+@media (max-width: 575.98px) {
+  .rounded-sm {
+    border-bottom-left-radius: 2rem !important;
+    border-bottom-right-radius: 2rem !important;
+  }
+}
