@@ -1,2 +1,2 @@
-# Current_Display_Website
- Latest website I am working on.
+# Tindog Project
+Dating website for dogs (only homepage), using HTML, CSS.
